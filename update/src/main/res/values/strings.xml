@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">update</string>
+    <string name="update_download_failed">下载失败</string>
+    <string name="update_download_failed_msg">参数不能为空</string>
+    <string name="update_download_start">开始下载</string>
+    <string name="update_download_progress">正在下载</string>
+    <string name="update_download_finish">下载完成</string>
+</resources>
